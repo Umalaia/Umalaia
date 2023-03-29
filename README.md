@@ -48,7 +48,7 @@
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
 <a href="https://www.instagram.com/sheilaorejuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sheilaorejuela/" height="20" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCckU-gTIqLNTmPrz1lsc9lA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccku-gtiqlntmprz1lsc9la" height="20" width="30" /></a>
-<a href="/https://open.spotify.com/artist/6mnl0qgfvqx0zen9xicbwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="https://open.spotify.com/artist/6mnl0qgfvqx0zen9xicbwx" height="20" width="30" /></a>
+<a href="https://open.spotify.com/artist/6mnL0QGfvqX0zEN9xiCbwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="https://open.spotify.com/artist/6mnl0qgfvqx0zen9xicbwx" height="20" width="30" /></a>
 </p> </h5>
 
 
