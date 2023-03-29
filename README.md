@@ -39,14 +39,10 @@
    <img src="https://media.giphy.com/media/3o85xDWOG8Sbl9yQzm/giphy.gif" alt="Working" style="width: 160px;
             height: 100px; display: inline-block; margin: 20px;
             float: left" data-target="animated-image.originalImage">
-
 <p/>
 
 
 
-
-
-</br>
 <h5> :microphone: :notes: Tambien podeis visitarme en : 
 <p align="left">
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
