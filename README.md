@@ -4,7 +4,6 @@
 
 ![_IGP6805 - copia](https://user-images.githubusercontent.com/123022804/228633528-90964b51-4ea3-4d3e-a2d7-a95675b94e63.JPG)
 
-
 <h4 align="center"> :computer: Actualmente cursando 1ºDAW en Edix.
 
 </br> Herramientas que utilizo :</h4>
@@ -20,5 +19,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sheilaorejuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheilaorejuela/" height="30" width="40" /></a>
 </p>
+
+<h4> Tambien podeis visitarme en otros perfiles </h4>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=umalaia&label=Visitas%20al%20perfil&color=017C91&style=plastic" alt="umalaia" /> </p>
