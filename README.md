@@ -43,7 +43,7 @@
 
 
 
-<h5> :microphone: :notes: También podeis visitarme en : 
+<h5> :microphone: :notes: También podéis visitarme en : 
 <p align="left">
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
 <a href="https://www.instagram.com/sheilaorejuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sheilaorejuela/" height="20" width="30" /></a>
