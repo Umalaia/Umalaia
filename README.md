@@ -26,7 +26,6 @@
 <p align="left">
 <img src="https://media.giphy.com/media/zBOqRPmkEF3Ow/giphy.gif" alt="Working" style="width: 60%; display: inline-block;" data-target="animated-image.originalImage">
 <img src="https://media.giphy.com/media/ARrQFpc6km5eU/giphy-downsized-large.gif" alt="Working2" style="width: 37%; display: inline-block;" data-target="animated-image.originalImage">
-<img src="https://media.giphy.com/media/KiXiO1iR3fFhC/giphy-downsized-large.gif" alt="Working3" style="width: 37%; display: inline-block;" data-target="animated-image.originalImage">
 <p/>
 
 
