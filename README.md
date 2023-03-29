@@ -2,7 +2,7 @@
 
 <h3 align="center"> :shipit:  &nbsp  Bienvenidos a mi Github  &nbsp  :octocat: </h3>
 
-![_IGP6805](https://user-images.githubusercontent.com/123022804/228629771-82c00ec6-0dc3-4d64-9d08-085f6b447adb.JPG)
+![_IGP6805 - copia](https://user-images.githubusercontent.com/123022804/228633528-90964b51-4ea3-4d3e-a2d7-a95675b94e63.JPG)
 
 
 <h4 align="center"> :computer: Actualmente cursando 1ºDAW en Edix.
