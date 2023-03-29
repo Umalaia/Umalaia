@@ -23,9 +23,23 @@
 </p>
 
 
-<p align="left">
-<img src="https://media.giphy.com/media/zBOqRPmkEF3Ow/giphy.gif" alt="Working" style="width: 60%; display: inline-block;" data-target="animated-image.originalImage">
-<img src="https://media.giphy.com/media/ARrQFpc6km5eU/giphy-downsized-large.gif" alt="Working2" style="width: 37%; display: inline-block;" data-target="animated-image.originalImage">
+<p align="center">
+<img src="https://media.giphy.com/media/VjAB0fOmK15Ze/giphy.gif" alt="Working" style="width: 190px;
+            height: 100px; display: inline-block; margin: 20px 
+            float: left" data-target="animated-image.originalImage">
+  <img src="https://media.giphy.com/media/ARrQFpc6km5eU/giphy-downsized-large.gif" alt="Working" style="width: 190px;
+            height: 100px; display: inline-block; margin: 20px;
+            float: left" data-target="animated-image.originalImage">
+  <img src="https://media.giphy.com/media/zBOqRPmkEF3Ow/giphy.gif" alt="Working" style="width: 190px;
+            height: 100px; display: inline-block; margin: 20px;
+            float: left" data-target="animated-image.originalImage">
+   <img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" alt="Working" style="width: 190px;
+            height: 100px; display: inline-block; margin: 20px;
+            float: left" data-target="animated-image.originalImage">
+   <img src="https://media.giphy.com/media/3o85xDWOG8Sbl9yQzm/giphy.gif" alt="Working" style="width: 190px;
+            height: 100px; display: inline-block; margin: 20px;
+            float: left" data-target="animated-image.originalImage">
+
 <p/>
 
 
