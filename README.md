@@ -2,9 +2,11 @@
 
 <h3 align="center"> :shipit:  &nbsp  Bienvenidos a mi Github  &nbsp  :octocat: </h3>
 
+
 ![_IGP6805 - copia](https://user-images.githubusercontent.com/123022804/228633528-90964b51-4ea3-4d3e-a2d7-a95675b94e63.JPG)
 
-<h4 align="center"> :computer: Actualmente cursando 1ºDAW en Edix.
+
+<h4 align="center"> :woman_technologist: Actualmente cursando 1ºDAW en Edix. 
 
 </br> Herramientas que utilizo :</h4>
 
@@ -20,12 +22,15 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sheilaorejuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheilaorejuela/" height="30" width="40" /></a>
 </p>
 
-<h5> Tambien podeis visitarme en otros perfiles </h5>
+
+</br>
+<h5> :microphone: :notes: Tambien podeis visitarme en : 
 <p align="left">
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
 <a href="https://instagram.com/https://www.instagram.com/sheilaorejuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sheilaorejuela/" height="20" width="30" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccku-gtiqlntmprz1lsc9la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccku-gtiqlntmprz1lsc9la" height="20" width="30" /></a>
 <a href="/https://open.spotify.com/artist/6mnl0qgfvqx0zen9xicbwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="https://open.spotify.com/artist/6mnl0qgfvqx0zen9xicbwx" height="20" width="30" /></a>
-</p>
+</p> </h5>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=umalaia&label=Visitas%20al%20perfil&color=017C91&style=plastic" alt="umalaia" /> </p>
