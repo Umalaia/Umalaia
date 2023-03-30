@@ -41,6 +41,10 @@
             float: left" data-target="animated-image.originalImage">
 <p/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umalaia&show_icons=true&locale=en&layout=compact" alt="umalaia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umalaia&show_icons=true&locale=en"  alt="umalaia" /></p>
+
 
 
 <h5> :microphone: :notes: También podéis visitarme en : 
@@ -51,6 +55,9 @@
 <a href="https://open.spotify.com/artist/6mnL0QGfvqX0zEN9xiCbwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="https://open.spotify.com/artist/6mnl0qgfvqx0zen9xicbwx" height="20" width="30" /></a>
 </p> </h5>
 
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 
