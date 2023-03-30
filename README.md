@@ -23,6 +23,22 @@
 </p>
 
 
+
+
+## 🚀🛸 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=umalaia&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=umalaia&theme=omni&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umalaia&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<p align="left">
+<img src="https://camo.githubusercontent.com/20d5579c1f108fe15724d1e48b391e7a9c65c8e6dba664f64583576214cfbc13/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d756d616c616961267468656d653d6f6d6e6926686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=umalaia&amp;theme=omni&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" style="width: 37%;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://camo.githubusercontent.com/5f44fda8d7004382dc57f04e448ca668c5bbccc3ceda248e7cd034a4b9b48f1d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d756d616c616961267468656d653d6f6d6e6926686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=umalaia&amp;theme=omni&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" style="width: 34%;">
+ </p>
+  
+</br>
+</br>
+</br>
+
 <p align="center">
   <img src="https://media.giphy.com/media/VjAB0fOmK15Ze/giphy.gif" alt="Working" style="width: 160px;
             height: 100px; display: inline-block; margin: 20px 
@@ -40,10 +56,6 @@
             height: 100px; display: inline-block; margin: 20px;
             float: left" data-target="animated-image.originalImage">
 <p/>
-
-
-
-
 
 <h5> :microphone: :notes: También podéis visitarme en : 
 <p align="left">
