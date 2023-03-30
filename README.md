@@ -41,9 +41,7 @@
             float: left" data-target="animated-image.originalImage">
 <p/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umalaia&show_icons=true&locale=en&layout=compact" alt="umalaia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umalaia&show_icons=true&locale=en"  alt="umalaia" /></p>
 
 
 
