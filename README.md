@@ -1,6 +1,8 @@
+![bienvenidos a mi](https://user-images.githubusercontent.com/123022804/228921675-9ae92320-1427-42cc-9a72-c714ffa035c6.png)
 
 
-<h3 align="center"> :shipit:  &nbsp  Bienvenidos a mi Github  &nbsp  :octocat: </h3>
+
+
 
 
 ![_IGP6805 - copia](https://user-images.githubusercontent.com/123022804/228633528-90964b51-4ea3-4d3e-a2d7-a95675b94e63.JPG)
