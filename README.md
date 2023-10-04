@@ -8,7 +8,7 @@
 ![_IGP6805 - copia](https://user-images.githubusercontent.com/123022804/228633528-90964b51-4ea3-4d3e-a2d7-a95675b94e63.JPG)
 
 
-<h4 align="center"> :woman_technologist: Actualmente cursando 1ºDAW en Edix. 
+<h4 align="center"> :woman_technologist: Actualmente cursando 2ºDAW en UNIR. 
 
 </br> Aprendiendo :</h4>
 
