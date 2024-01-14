@@ -9,7 +9,8 @@
 
 
 <h4 align="center"> :woman_technologist: Actualmente cursando 2ºDAW en UNIR. 
-
+ </br> </br>
+   
 </br> SKILLS :</h4>
 
 <div align="center">  
