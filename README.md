@@ -9,7 +9,7 @@
 
 
 <h4 align="center"> :woman_technologist: Actualmente cursando 2ºDAW en UNIR. 
- </br> </br>
+ </br> </br> </br>
    
 </br> SKILLS :</h4>
 
@@ -35,7 +35,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
 
-
+</br> </br> 
 <h4 align="center">Conecta conmigo en LinkedIn:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/sheilaorejuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheilaorejuela/" height="30" width="40" /></a>
