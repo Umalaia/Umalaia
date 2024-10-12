@@ -4,7 +4,7 @@
 
 
 
-<h4 align="center"> :woman_technologist: Actualmente cursando 2ºDAW en UNIR. 
+<h4 align="center"> :woman_technologist: DESARROLLADORA WEB FULL STACK | MICROSOFT DYNAMICS 365 & POWER PLATFORM
  </br> </br> </br>
    
 </br> SKILLS :</h4>
